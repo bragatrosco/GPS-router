@@ -1,8 +1,8 @@
 #!/overlay/bin/bash
 
 rm /tmp/lockfile
-IMEI='860461020041284'
-KEY='466874'
+IMEI='xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+KEY='xxxxxx'
 URL="http://updates.opengps.net/"
 
 while : ; do
